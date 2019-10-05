@@ -5,11 +5,9 @@ contactFormSubtitle : >
 map: true
 mapTitle    : encontre-nos
 mapSubtitle : Nossa localização
-mapLat: -20.214453
-mapLng: -40.2434592
-
+mapLat: -20.2120091
+mapLng: -40.2431233
 officeAddress1 : Rua Cisne, n 54, Novo Horizonte - Serra/ES
-
 mail1 : contatotransmarle@gmail.com
 phone1: +55 27 3366-3570
 phone2: +55 27 99971-3895
