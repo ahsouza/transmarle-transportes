@@ -1,0 +1,16 @@
+enable  : true
+galleryImages :
+  - image : images/trans-1.jpg
+  - image : images/motoristas.jpg
+  - image : images/trans-2.jpg
+  - image : images/trans-3.jpg
+  - image : images/equipe.jpg
+  - image : images/trans-7.jpg
+  - image : images/trans-8.jpg
+  - image : images/about/onibus.jpg
+  - image : images/trans-4.jpg
+  - image : images/trans-5.jpeg
+  - image : images/about/bancos-2.jpg
+  - image : images/trans-6.jpeg
+  - image : images/trans-9.jpg
+  - image : images/about/bancos.jpg

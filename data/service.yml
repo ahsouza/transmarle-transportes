@@ -1,0 +1,24 @@
+enable  : true
+title   : O QUE NÓS FAZEMOS?
+subtitle: Prestamos serviços de transportes por toda região da Grande Vitória
+image   : images/trans-3.jpg
+serviceItem :
+  - icon  : ion-ios-people
+    title : TURISMO E MAIS
+    description: >
+      Empreendimentos turísticos de férias em Praia Grande, Praia Mole, Convento Da Penha, Museus e etc...
+
+  - icon  : ion-ios-chatboxes
+    title : TRANSPORTE ESCOLAR
+    description: >
+      Com grande pontualismo nas horas de chegar e sair de escolas registradas, conduzindo em melhores percurssos para manter a segurança de todos
+
+  - icon  : ion-ios-briefcase
+    title : FRETES EM ÁREA INDUSTRIAL
+    description: >
+      Fornecendo frete para toda área industrial com segurança, contamos com motoristas profissionais que oferecem a todos trabalhadores um conforto maior em suas viagens
+
+  - icon  : ion-ios-home
+    title : CHEGUE EM CASA NA HORA
+    description: >
+      Nossas viagens propoem para os passageiros um pontualismo no tempo de chegada em seus pontos disponíveis de desenbarque.

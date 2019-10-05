@@ -1,0 +1,91 @@
+baseURL = "https://ahsouza.github.io/transmarle-transportes/"
+languageCode = "en-us"
+title = "Transmarle - Serviços de Transportes LTDA"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Sobre"
+        url     = "about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Serviços"
+        url     = "service"
+        weight  = 3
+    [[menu.nav]]
+        name    = "Galeria De Imagens"
+        url     = "gallery"
+        weight  = 4
+    [[menu.nav]]
+        name    = "Blog"
+        url     = "blog"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Contato"
+        url     = "contact"
+        weight  = 6
+
+# Site Params
+[params]
+    home = "Home"
+    logo = "images/logo.png"
+    dateFormat = "6 January 2006"
+    # Meta data
+    description = "Nossa empresa fornece serviços de transportes com qualidade e segurança para que nossos passageiros se sintam confortável obtendo uma ótima viagem."
+    author = "Aníbal Henrique"
+    # Google Analitycs
+    googleAnalitycsID = "Your ID"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/capa.jpg"
+        heading = "SERVIÇOS DE TRANSPORTES COM"
+        description = ""
+        btn     = true
+        btnText = "Saiba mais"
+        btnURL  = "https://themefisher.com/"
+        [[params.banner.flipText]]
+            title   = "SEGURANÇA"
+        [[params.banner.flipText]]
+            title   = "CONFORTO"
+        [[params.banner.flipText]]
+            title   = "QUALIDADE"
+
+    # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "SOBRE NÓS"
+        content = "Fundada no ano 2000, somos uma empresa de muitas conquistas no mercado de transporte de passageiros, iniciando com transporte escolar e turismo dentro do estado do Espírito Santo.<br><br>Temos autorizações para transportes Escolares, DER e CETURB. Atendemos mais de 10 empresas com qualidade e pontualidade.<br>Em seguida, agregamos o fretamento na área da Vale, Arcelor, Samarco e empresas localizadas por toda Grande Vitória. <br>Temos autorizações para Transporte Escolar e Ceturb. Atendemos mais de 20 empresas com qualidade e pontualidade!"
+        image   = "images/about/about.jpg"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "Contate-nos"
+        content = "+55 27-3366-3570 / +55 27-99971-3895<br>contatotransmarle@gmail.com.br"
+        btnText = "Fale Conosco"
+        btnURL  = "/contact"
+
+    # Portfolio Section On Homepage
+    [params.portfolio]
+        enable  = true
+        title   = "Latest Works"
+        subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+    [params.footer]
+        [[params.footer.socialIcon]]
+            icon = "ion-social-facebook"
+            url = "#"
+
+        [[params.footer.socialIcon]]
+            icon = "ion-social-instagram"
+            url = "#"
+
+        [[params.footer.socialIcon]]
+            icon = "ion-social-linkedin"
+            url = "#"
