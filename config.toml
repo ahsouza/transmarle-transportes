@@ -17,13 +17,9 @@ theme = "timer-hugo"
         url     = "service"
         weight  = 3
     [[menu.nav]]
-        name    = "Galeria De Imagens"
+        name    = "Imagens"
         url     = "gallery"
         weight  = 4
-    [[menu.nav]]
-        name    = "Blog"
-        url     = "blog"
-        weight  = 5
     [[menu.nav]]
         name    = "Contato"
         url     = "contact"
@@ -48,7 +44,7 @@ theme = "timer-hugo"
         description = ""
         btn     = true
         btnText = "Saiba mais"
-        btnURL  = "https://themefisher.com/"
+        btnURL  = "http://localhost:1313/transmarle-transportes/about/"
         [[params.banner.flipText]]
             title   = "SEGURANÇA"
         [[params.banner.flipText]]

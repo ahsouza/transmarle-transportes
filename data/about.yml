@@ -1,20 +1,21 @@
 enable  : true
-title   : Why We are Different
+title   : História da Transmarle
 description: >
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequun. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  Iniciamos nossas atividades no ano de 2000, e recebemos esse nome devido a junção dos nomes dos sócios. Iniciamos trabalhando com Transporte Escolar e agregamos o turismo dentro do estado do Espírito Santo e em seguida o fretamento na área da Vale, Arcelor, Samarco e empresas localizadas na Grande Vitória.
+  Temos autorizações do Transporte Escolar e CETURB.
   <br>
   <br>
-  Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.
-image   : images/about/about-company.jpg
+  Atendemos a mais de 20 empresas, prestando serviços de transporte de passageiros com qualidade e pontualidade. Possuímos uma frota de mais de 40 veículos, entre ônibus, micro-ônibus, vans, minivans, para atender conforme a necessidade do cliente.
+image   : images/motoristas.jpg
 aboutItem:
-  - title : Why Choose Us
+  - title : Missão
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
 
-  - title : What You Get
+  - title : Visão
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam.
 
-  - title : Meet The Energy
+  - title : Valores
     description: > 
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas.
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium. Her sit voluptatem accusantium.
