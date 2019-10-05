@@ -60,8 +60,8 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "SOBRE NÓS"
-        content = "Fundada no ano 2000, somos uma empresa de muitas conquistas no mercado de transporte de passageiros, iniciando com transporte escolar e turismo dentro do estado do Espírito Santo.<br><br>Temos autorizações para transportes Escolares, DER e CETURB. Atendemos mais de 10 empresas com qualidade e pontualidade.<br>Em seguida, agregamos o fretamento na área da Vale, Arcelor, Samarco e empresas localizadas por toda Grande Vitória. <br>Temos autorizações para Transporte Escolar e Ceturb. Atendemos mais de 20 empresas com qualidade e pontualidade!"
-        image   = "images/about/about.jpg"
+        content = "Fundada no ano 2000, somos uma empresa de muitas conquistas no mercado de transporte de passageiros, iniciando com transporte escolar e turismo dentro do estado do Espírito Santo.<br><br>Temos autorizações para Transporte Escolar e Ceturb. Atendemos mais de 20 empresas com qualidade e pontualidade!"
+        image   = "images/trans-5.jpeg"
 
     # Call to Action
     [params.cta]
