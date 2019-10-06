@@ -2,6 +2,7 @@ baseURL = "https://ahsouza.github.io/transmarle-transportes/"
 languageCode = "en-us"
 title = "Transmarle - Serviços de Transportes LTDA"
 theme = "timer-hugo"
+publishDir = "docs"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
