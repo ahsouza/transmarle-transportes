@@ -65,7 +65,7 @@ theme = "timer-hugo"
         title   = "Contate-nos"
         content = "+55 27-3366-3570 / +55 27-99971-3895<br>contatotransmarle@gmail.com.br"
         btnText = "Fale Conosco"
-        btnURL  = "/contact"
+        btnURL  = "http://localhost:1313/transmarle-transportes/contact"
 
     # Portfolio Section On Homepage
     [params.portfolio]

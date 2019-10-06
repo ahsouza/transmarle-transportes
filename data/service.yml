@@ -9,7 +9,7 @@ serviceItem :
       Com o fretamento, é possível reduzir custos, reduzir incidências de faltas e atrasos e oferecer segurança e conforto diariamente aos nossos clientes em áreas industriais e urbanas.
       Nossos veículos contam com manutenção preventiva, investimentos na renovação de frota, inspeções frequentes, além de uma seleção adequada, treinamento e capacitação de motoristas.
 
-  - icon  : ion-ios-briefcase
+  - icon  : <i class="material-icons">search</i>
     title : TRANSPORTE ESCOLAR
     description: >
       Com pontualidade na ida e retorno das escolas, somos uma empresa registrada, e atendemos com veículos climatizados.
