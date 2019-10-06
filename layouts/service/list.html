@@ -18,7 +18,8 @@
                         {{ range .Site.Data.service.serviceItem }}
                         <div class="col-md-6">
                             <div class="block wow fadeInUp animated" data-wow-duration="400ms" data-wow-delay="600ms">
-                                {{ with .icon }}<i class="{{ . }}"></i>{{ end }}
+                                <i class="material-icons">directions_bus</i>
+                                
                                 {{ with .title }}<h4>{{ . }}</h4>{{ end }}
                                 {{ with .description }}<p>{{ . }}</p>{{ end }}
                             </div>
